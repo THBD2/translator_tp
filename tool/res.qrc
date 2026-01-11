@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>res/close.png</file>
+        <file>res/copy.png</file>
+        <file>res/cut.png</file>
+        <file>res/exit.png</file>
+        <file>res/new.png</file>
+        <file>res/open.png</file>
+        <file>res/paste.png</file>
+        <file>res/redo.png</file>
+        <file>res/save as.png</file>
+        <file>res/save.png</file>
+        <file>res/undo.png</file>
+    </qresource>
+</RCC>
